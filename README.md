@@ -13,7 +13,6 @@
 
 **Aplicações e Dados**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -55,7 +54,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Douglas Leonard Passos Olinto](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglaslpo/)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: DouglasLPO(https://img.shields.io/badge/-DouglasLPO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglaslpo/)](https://www.linkedin.com/in/douglaslpo/)
 [![Gmail Badge](https://img.shields.io/badge/-douglaslpolinto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaslpolinto@gmail.com)](mailto:douglaslpolinto@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub DouglasLPO]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/douglaslpo)
 
