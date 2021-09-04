@@ -1,7 +1,4 @@
-### Hi there 👋
-
-**douglaslpo/douglaslpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Olá, bem vindo ao meu perfil, me chamo Douglas Leonard! 👋
 <h3> 🚹: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -54,7 +51,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: DouglasLPO(https://img.shields.io/badge/-DouglasLPO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglaslpo/)](https://www.linkedin.com/in/douglaslpo/)
+[![Linkedin: DouglasLPO](https://img.shields.io/badge/-DouglasLPO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglaslpo/)](https://www.linkedin.com/in/douglaslpo/)
 [![Gmail Badge](https://img.shields.io/badge/-douglaslpolinto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaslpolinto@gmail.com)](mailto:douglaslpolinto@gmail.com)
 [![GitHub DouglasLPO]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/douglaslpo)
 
