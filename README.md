@@ -3,8 +3,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Analista e Desenvolvedor de Sistemas graduado na <a href="http://www.fanap.br/">FANAP</a>.
-- 💼 &nbsp; Trabalhando como Analista de Sistemas na <a href="https://newlineseguranca.com.br/">New Line Sistemas</a>
-- 🌱 &nbsp; Aprendendo mais sobre Flutter, PL/SQL, React, ReactJS,.
+- 💼 &nbsp; Trabalhando como Analista de Sistemas na <a href="https://ufg.br/">UFG</a>
+- 🌱 &nbsp; Aprendendo mais sobre Flutter, PL/SQL, React, ReactJS, Jenkins, Docker, Rest, Spring.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
