@@ -115,7 +115,7 @@ Sistema de organização e recuperação inteligente de conhecimento com IA.
 
 * LinkedIn: https://www.linkedin.com/in/douglaslpo/
 * GitHub: https://github.com/douglaslpo
-* E-mail: [mailto@gmail.com](mailto:douglaslpolinto@gmail.com)
+* E-mail: [douglaslpolinto@gmail.com](mailto:douglaslpolinto@gmail.com)
 
 ---
 
